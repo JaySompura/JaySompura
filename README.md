@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaySompura
-- 👀 I’m interested in learning Python for Data Analytics
+- 👀 I’m interested in learning Python for Data Science
 - 🌱 I’m currently learning Marketing Analytics and Data Engineering to connect python with AWS
 - 💞️ I’m looking to collaborate on Data Engineering and API development, Data Analytics 
 - 📫 How to reach me - just email me on jaynsompura20@gmail.com 
